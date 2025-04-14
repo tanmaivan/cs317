@@ -18,7 +18,7 @@
 ## Tổng quan dự án
 **Bài toán**: Pipeline MLflow dự đoán giá nhà
 
-### 🛠 Công nghệ sử dụng
+### Công nghệ sử dụng
 | Thành phần         | Công dụng                               |
 |--------------------|-----------------------------------------|
 | Metaflow           | Quản lý workflow pipeline               |
